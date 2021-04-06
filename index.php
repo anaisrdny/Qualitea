@@ -1,6 +1,6 @@
-<?php session_start(); ?>
-
-<?php include "./php/varSession.inc.php"; ?>
+<?php 
+session_start(); 
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,3 +23,6 @@
 
 </body>
 </html>
+
+
+
